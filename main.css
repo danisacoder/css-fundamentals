@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #2E354F;
+  margin: 0;
+}
+
+header {
+  color: white;
+  background-color: #2E354F;
+  padding: 50px;
+}
+
+.section-one {
+  margin: 50px;
+}
+
+.section-two {
+  background-color: #2E354F;
+  color: white;
+}
+
+h2 {
+  color: #EF5839;
+}
+
+h1 {
+  border: 1px solid magenta;
+  padding: 10px;
+}
+
+/* .container {
+  border: 1px solid magenta;
+} */
